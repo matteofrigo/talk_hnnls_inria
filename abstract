@@ -1,0 +1,6 @@
+Titolo0: False positives detection in connectomics through hierarchical sparsity
+Titolo1: False positives detection in connectomics: the hierarchical way
+Titolo2: Hierarchical sparsity in tractography optimisation
+Titolo3: Exploiting hierarchy in false positives detection: the tractography case
+
+In this talk I will tackle the recently identified bias related to the presence of many false positive connections within connectomes. I will propose a solution formulated as a convex optimisation problem that simultaneously fits the acquired data (dMRI) and promotes sparsity with an hierarchical pattern, coherently with the available anatomical prior knowledge. The large-scale nature of the problem forces the use the most recent proximal splitting methods. The obtained preliminary results show that this is the first effective approach to the false positives issue in connectomics.
